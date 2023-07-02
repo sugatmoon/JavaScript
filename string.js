@@ -25,5 +25,3 @@ var anotherindexof = x.indexOf( 'n' );
 console.log( indexof );
 console.log( lastindexof );
 console.log( anotherindexof );
-
-
